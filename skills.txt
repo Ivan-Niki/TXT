@@ -1,0 +1,9 @@
+Skills to be learned:
+1) Theory of software testing - SDLC, STLC, Test design;
+2) Test documentation - Checklist, Test Case, Test Plan, Bug report;   
+3) Client-server architecture - HTTP, API, Postman, DBMS, SQL;  
+4) Terminal Linux - mkdir, pwd, touch, cd, cp, mv, rm, find, grep, cat, head, tail, vim, less;  
+5) Version Control Systems - Git, GitHub;  
+6) Mobile testing - Android guidelines, IOS guidelines, Charles, Fiddler, Android Studio, ADB;  
+7) Bug Tracking Systems - Jira, Redmine, Trello.
+    
